@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "nodemon": "^2.0.15",
+    "slugify": "^1.6.5"
+  },
+  "name": "starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
